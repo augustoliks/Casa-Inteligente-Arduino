@@ -13,7 +13,7 @@ TCC em Redes de Computadores pela Etec Cônego José Bento (Jacareí)
 ![description](Imagens/Tabelas/materiais.jpg)
 
 ---
-# Projeto em Funcinamento
+# Projeto em Funcionamento
 >> Você pode ver o projeto em funcionamento clicando [neste link](https://youtu.be/56V8g1gVlg8)
 
 
