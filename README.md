@@ -8,10 +8,11 @@ TCC em Redes de Computadores pela Etec Cônego José Bento (Jacareí)
 ---
 
 ### Tecnologias utilizadas
->> Aplicativo de mensagens Telegram, Linguagem de Programação JAVA (padrão de arquitetura de software MVC) e Python (MicroFramework Flask), microocontrolador Arduino, módulo GSM e RaspberryPI.
+>> Além das citadas abaixo, também foi usado o noIp para o serviço de DDNS, GIMP e Inkscape para edição e criação do layout do aplicativo  
+
+![description](Imagens/Tabelas/materiais.jpg)
 
 ---
-
 # Projeto em Funcinamento
 >> Você pode ver o projeto em funcionamento clicando [neste link](https://youtu.be/56V8g1gVlg8)
 
