@@ -1,5 +1,5 @@
-# Esteira-Seletora-Por-Cores :house:
-TCC curso Técnico em Redes de Computadores (ETEC Cônego José Bento)
+# Casa-Inteligente-Arduino :house:
+TCC em Redes de Computadores pela Etec Cônego José Bento (Jacareí)
 
 ### Sobre:
 
@@ -12,18 +12,9 @@ TCC curso Técnico em Redes de Computadores (ETEC Cônego José Bento)
 
 ---
 
-### Referências:
+# Projeto em Funcinamento
+>> Você pode ver o projeto em funcionamento clicando [neste link](https://youtu.be/56V8g1gVlg8)
 
->>> Documentação da API de acesso ao telegram:
-
-- https://github.com/pengrad/java-telegram-bot-api
-
->>> Programações Auxiliares:
-
-- https://github.com/giulianobertoti/EducationalTelegramBOT
-- https://github.com/IHCF
-
----
 
 # Imagens do projeto
 
@@ -31,9 +22,7 @@ TCC curso Técnico em Redes de Computadores (ETEC Cônego José Bento)
 
 ![description](Imagens/Casa/casa.png)
 
-
 ---
-
 
 # Aplicativo
 
@@ -49,10 +38,9 @@ TCC curso Técnico em Redes de Computadores (ETEC Cônego José Bento)
 
 >> Tela que expõem as funcionalidades do aplicativo;
 
-![gps](Imagens/apk/02.png)
+![gps](Imagens/apk/02.jpg)
 
 ---
-
 
 ### **Opção: Controle Manual**
 
